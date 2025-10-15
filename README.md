@@ -42,9 +42,9 @@ The dataset contains event-level information about global terrorism incidents, i
 
 🛠️ **Tools Used**
 
-Tableau: Data visualization and dashboard creation.
+**Tableau:** Data visualization and dashboard creation.
 
-Data Cleaning: Handled missing or inconsistent fields prior to visualization.
+**Data Cleaning:** Handled missing or inconsistent fields prior to visualization.
 
 📚 **Key Insights**
 

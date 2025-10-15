@@ -13,6 +13,7 @@ The dashboard visualizes patterns and trends in terrorist incidents across regio
 3) Analyze attack types, targets, and weapons used.
 
 4) Examine casualty patterns and attack success rates.
+   
 
 🧩 **Dataset**
 
@@ -27,6 +28,7 @@ The dataset contains event-level information about global terrorism incidents, i
 4) **Impact Metrics:** Number of killed, wounded, property damage & property value.
 
 5) **Source:** Global Terrorism Database (GTD) or similar open-source dataset.
+   
 
 📈 **Dashboard Features**
 
@@ -40,11 +42,13 @@ The dataset contains event-level information about global terrorism incidents, i
 
 ⚰️ **Casualty Insights–** Understand the impact through deaths and injuries.
 
+
 🛠️ **Tools Used**
 
 **Tableau:** Data visualization and dashboard creation.
 
 **Data Cleaning:** Handled missing or inconsistent fields prior to visualization.
+
 
 📚 **Key Insights**
 
